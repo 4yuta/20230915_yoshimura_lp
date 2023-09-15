@@ -320,8 +320,8 @@
 
 .blog__card {
     position: relative;
-    margin: 30px 45px 0 0;
-    width: 20%;
+    margin: 30px 16px 0 0;
+    width: 26%;
     height: 380px;
     background: white;
     border-radius: 15px;
@@ -347,7 +347,7 @@
 
 .blog__card--text {
     position: relative;
-    top: 66%;
+    top: 70%;
     left: 14px;
     width: 90%;
     font-weight: bold;
@@ -357,7 +357,7 @@
 
 .blog__card-tag {
     position: relative;
-    top: 72%;
+    top: 75%;
     left: 14px;
     color: #727272;
 }
