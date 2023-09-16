@@ -76,7 +76,7 @@
 
 .news__logo {
     position: absolute;
-    left: 25%;
+    left: 24%;
     margin-bottom: 20px;
     font-size: 15px;
     color: #B31667;
@@ -86,7 +86,7 @@
 .news__title {
     position: absolute;
     top: 20px;
-    left: 25%;
+    left: 24%;
     margin-bottom: 30px;
     font-size: 20px;
     color: #727272;
@@ -95,8 +95,8 @@
 .news__list {
     position: absolute;
     top: 60px;
-    left: 25%;
-    right: 25%;
+    left: 24%;
+    right: 24%;
 }
 
 .news__item-first {
